@@ -11,3 +11,6 @@ Hermione Granger is a highly intelligent and well read students of Hogwarts scho
 * Social outcast
 
 > I mean, you could claim that anything's real if the only basis for believing in it is that nobody's proved it doesn't exist!
+
+<img src="https://vignette.wikia.nocookie.net/emmapedia/images/3/3e/Hermione.jpg" />
+&#169; CC-BY-SA ![Emmapedia](https://emmapedia.fandom.com/wiki/Hermione_Granger)
