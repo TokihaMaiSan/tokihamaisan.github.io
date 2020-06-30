@@ -12,5 +12,5 @@ Hermione Granger is a highly intelligent and well read students of Hogwarts scho
 
 > I mean, you could claim that anything's real if the only basis for believing in it is that nobody's proved it doesn't exist!
 
-<img src="https://vignette.wikia.nocookie.net/emmapedia/images/3/3e/Hermione.jpg" />
-&#169; CC-BY-SA ![Emmapedia](https://emmapedia.fandom.com/wiki/Hermione_Granger)
+<img src="https://upload.wikimedia.org/wikipedia/en/d/d3/Hermione_Granger_poster.jpg" />
+&#169; CC-BY-SA [Emmapedia](https://emmapedia.fandom.com/wiki/Hermione_Granger)
